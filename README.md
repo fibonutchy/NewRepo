@@ -1,8 +1,9 @@
 # university
 
 
+![university1](https://github.com/fibonutchy/NewRepo/assets/130802142/b7a5e6e9-f6f0-49c9-8d55-2ca75b3507f1)
 
-![university4](https://github.com/fibonutchy/NewRepo/assets/130802142/cae44f49-fd91-4244-961f-c0822b6bc489)
+
 
 
 ![university2](https://github.com/fibonutchy/NewRepo/assets/130802142/39178521-a139-416d-b5d7-9221302863ff)
